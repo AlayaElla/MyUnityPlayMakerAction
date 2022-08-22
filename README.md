@@ -7,7 +7,7 @@
 从对象池中创建物体：Create By Pool
 ![image](https://user-images.githubusercontent.com/21375302/185856375-484ee068-f1cb-46d1-bbd0-5e1486c9337c.png)
 - Root：生成物体的父节点
-- Path：需要生成物体在Resources种的资源路径
+- Path：需要生成物体在Resources种中的资源路径
 - SpawnPoin：生成物体的坐标点（包含位置和旋转）
 - Position：指定生成物体的Position
 - Rotation：指定生成物体的Position
